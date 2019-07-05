@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/Users/olee/Documents/workplace/scheduler/app/assets/javascripts'
+let g:netrw_dirhist_2='/Users/olee/Documents/workplace/scheduler/app/assets/javascripts/lib'
+let g:netrw_dirhist_3='/Users/olee/Documents/workplace/scheduler/spec/helpers'
+let g:netrw_dirhist_4='/Users/olee/Documents/workplace/scheduler/spec/models'
+let g:netrw_dirhist_5='/Users/olee/Documents/workplace/scheduler/spec'
+let g:netrw_dirhist_6='/Users/olee/Documents/workplace/scheduler'
+let g:netrw_dirhist_7='/Users/olee/Documents/workplace/scheduler/app'
+let g:netrw_dirhist_8='/Users/olee/Documents/workplace/scheduler/app/controllers'
